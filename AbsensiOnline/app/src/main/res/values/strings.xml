@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Absensi Online</string>
+    <string name="title_activity_bottom_navigator">bottom_navigator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_about">About</string>
+    <string name="Nama">Muhamad Syarifudin Abdul Jalal</string>
+    <string name="NIM">361855401010</string>
+    <string name="Email">suicideudin@gmail.com</string>
+    <string name="Phone">+62-83-854-371-172</string>
+    <string-array name="fidget_tahun">
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+    </string-array>
+
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="username">Syarifudin</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+</resources>
